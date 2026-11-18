@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+*.class
+.idea/
+.vscode/
+*.log
+code_injection_findings.csv
